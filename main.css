@@ -1,0 +1,20 @@
+body {
+    background-color: green;
+}
+
+h2 {
+    color: brown;
+    border: 6px dashed blue;
+}
+h3 {
+    border: ;
+}
+
+.third {
+    background-color: aquamarine;
+}
+
+#unique {
+    background-color: blueviolet;
+    font-weight: 600;
+}
